@@ -225,8 +225,23 @@ nav li a{
     padding: 10px 34px;
     /* margin-top:32px ; */
     margin-left: 600px;
-    border-radius: 6px;
-    
-    
-    
+    border-radius: 6px;   
+}
+.btn:hover{
+    background-color:red ;
+}
+.btn2:hover{
+    background-color:red ;
+}
+.btn3:hover{
+    background-color:red ;
+}
+.btn4:hover{
+    background-color:red ;
+}
+.btn5:hover{
+    background-color:red ;
+}
+.btn1:hover{
+    background-color:red ;
 }
