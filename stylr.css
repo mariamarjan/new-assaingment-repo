@@ -165,9 +165,11 @@ nav li a{
     padding: 0px 300px 0px;
 }
 .footer-input{
+    width:300px ;
     text-align: center;
     padding: 0px 90px 0px;
     margin-left: 360px;
+    box-sizing: border-box;
 }
 
 .footer-text{
@@ -178,6 +180,9 @@ nav li a{
 }
 .icon{
     text-align: center;
+}
+.btn1{
+    background-color: #006A50;
 }
 .btn2{
     background-color:#5490F5 ;
