@@ -23,6 +23,7 @@ nav li a{
     font-size:18px ;
     font-weight: 400;
     padding: 17px 34px;
+    border-radius: 6px;
 }
 /* banner design */
 .head{
@@ -113,9 +114,8 @@ nav li a{
     background-color: #F1F1F3;
 }
 .donate-head{
-    margin-top:80px ;
+    padding: 80px ;
     text-align: center;
-    margin-top: 50px;
 }
 .donate-des{
      text-align: center;
@@ -146,9 +146,82 @@ nav li a{
     padding: 20px 40px;
     text-align: center;
     margin-left: 130px; 
-    margin-bottom:112px ;
+    margin-bottom:100px ;
 }
 .footer{
     background-color: #C6E4D6;
-    margin: 48px;
+    margin:48px;
+    border-radius: 5px;
+    padding: 80px 100px;
+}
+.footer-head{
+    padding: 50px 5px 12px ;
+    text-align: center;
+
+}
+.footer-par{
+    text-align: center;
+    gap: 24px;
+    padding: 0px 300px 0px;
+}
+.footer-input{
+    text-align: center;
+    padding: 0px 90px 0px;
+    margin-left: 360px;
+}
+
+.footer-text{
+    text-align: center;
+}
+.foot{
+    text-align: center;
+}
+.icon{
+    text-align: center;
+}
+.btn2{
+    background-color:#5490F5 ;
+    color: white;
+    font-size:18px ;
+    font-weight: 400;
+    padding: 10px 34px;
+    /* margin-top:32px ; */
+    margin-left: 20px;
+    border-radius: 6px;
+
+}
+.btn3{
+    background-color:#09A15C ;
+    color: white;
+    font-size:18px ;
+    font-weight: 400;
+    padding: 10px 34px;
+    /* margin-top:32px ; */
+    margin-left: 20px;
+    border-radius: 6px;
+    
+}
+.btn4 {
+    background-color:#FFC239 ;
+    color: white;
+    font-size:18px ;
+    font-weight: 400;
+    padding: 10px 34px;
+    /* margin-top:32px ; */
+    margin-left: 20px;
+    border-radius: 6px;
+    
+}
+.btn5 {
+    background-color: #006A50;
+    color: white;
+    font-size:18px ;
+    font-weight: 400;
+    padding: 10px 34px;
+    /* margin-top:32px ; */
+    margin-left: 600px;
+    border-radius: 6px;
+    
+    
+    
 }
