@@ -50,3 +50,22 @@ nav li a{
     margin-top: 18px;
 
 }
+.features{
+    margin-top:80px ;
+
+}
+.feature-cont{
+    display: flex;
+    margin-top: 32px ;
+    gap: 24px;
+}
+.feature{
+     padding:32px ; 
+    background-color:#5490F5 ; 
+    border-radius: 2px;
+}
+.feature1{
+    padding:32px ; 
+    background-color:#F7EBCF; 
+    border-radius: 2px;
+}
