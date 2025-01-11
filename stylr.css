@@ -69,3 +69,31 @@ nav li a{
     background-color:#F7EBCF; 
     border-radius: 2px;
 }
+.task{
+    margin:48px ;
+    background-image: url('../new-assaingment-repo/assets/quote-bg.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+
+}
+.task-p{
+   font-size: 16px;
+   font-weight:normal; 
+   padding-top: 25px;
+   
+}
+.images{
+     padding:48px ;
+}
+.news-cont{
+    padding: 48px;
+}
+.newses{
+    background-color: #F7EBCF;
+    border-radius: 5px;
+}
+.news-div{
+    display: flex;
+    gap:32px ;
+    
+}
