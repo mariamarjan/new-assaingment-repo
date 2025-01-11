@@ -25,6 +25,9 @@ nav li a{
     padding: 17px 34px;
 }
 /* banner design */
+.head{
+    margin: 48px;
+}
 .banner{
  display: flex;
  justify-content: space-between;
@@ -52,6 +55,7 @@ nav li a{
 }
 .features{
     margin-top:80px ;
+    margin: 48px;
 
 }
 .feature-cont{
@@ -96,4 +100,55 @@ nav li a{
     display: flex;
     gap:32px ;
     
+}
+.news2{
+    margin-top:24px ;
+    margin:48px ;
+}
+.news{
+    margin: 48px;
+}
+.donate{
+    margin:48px;
+    background-color: #F1F1F3;
+}
+.donate-head{
+    margin-top:80px ;
+    text-align: center;
+    margin-top: 50px;
+}
+.donate-des{
+     text-align: center;
+     padding: 0px 200px 0px ;
+}
+.taka-ammount{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px; 
+    margin:48px;
+    padding: 32px;
+}
+.taka{
+    border: 5px solid #F7EBCF;
+    border-radius: 5px;
+    background-color: #F7EBCF;
+    width:25% ;
+    text-align: center;
+}
+.taka2{
+     background-color: #C6E4D6;
+     border-radius: 5px;
+     width: 25%;
+     text-align: center;
+}
+.input-text{
+    width:75%;
+    padding: 20px 40px;
+    text-align: center;
+    margin-left: 130px; 
+    margin-bottom:112px ;
+}
+.footer{
+    background-color: #C6E4D6;
+    margin: 48px;
 }
